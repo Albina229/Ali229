@@ -1,11 +1,35 @@
-.heading {
-    color: rgb(86, 145, 223);
+h1{
+ font-size: 400%;
+    color:#96d3ff;
+text-align: center;
+text-shadow: 0 0 5px #03060e;
+}
+li{
+    text-align: center;
+    font-size: 150%;
+    color:#d5ebff;
 }
 
-.title{
-    background-color: rgb(71, 157, 163);
+body{
+   background-image: url(pine_tree.png);
+
 }
 
-.heading-about {
-    color: rgb(74, 167, 167);
+a{
+    color:#d5ebff;
+    align:center;
+   
 }
+a:hover{
+    text-shadow: 0 0 5px #002064;
+}
+
+body{
+    font-family:Comic Sans MS, Comic Sans, cursive;
+}
+
+
+
+
+
+
