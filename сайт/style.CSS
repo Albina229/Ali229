@@ -1,8 +1,8 @@
 h1{
- font-size: 400%;
+    font-size: 400%;
     color:#96d3ff;
 text-align: center;
-text-shadow: 0 0 5px #03060e;
+text-shadow: 0 0 5px #03060e; 
 }
 li{
     text-align: center;
@@ -15,19 +15,16 @@ body{
 
 }
 
-a{
+a{ 
     color:#d5ebff;
-    align:center;
-   
 }
-a:hover{
-    text-shadow: 0 0 5px #002064;
+a:hover{ /*свечение при наведении на ссылку*/
+ text-shadow: 0 0 5px #002064;
 }
 
 body{
     font-family:Comic Sans MS, Comic Sans, cursive;
 }
-
 
 
 
