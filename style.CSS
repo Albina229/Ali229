@@ -1,0 +1,32 @@
+h1{
+    font-size: 400%;
+    color:#96d3ff;
+text-align: center;
+text-shadow: 0 0 5px #03060e; 
+}
+li{
+    text-align: center;
+    font-size: 150%;
+    color:#d5ebff;
+}
+
+body{
+   background-image: url(pine_tree.png);
+
+}
+
+a{ 
+    color:#d5ebff;
+}
+a:hover{ /*свечение при наведении на ссылку*/
+ text-shadow: 0 0 5px #002064;
+}
+
+body{
+    font-family:Comic Sans MS, Comic Sans, cursive;
+}
+
+
+
+
+
