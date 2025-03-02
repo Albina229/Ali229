@@ -11,7 +11,9 @@ li{
 }
 
 body{
-   background-image: url(pine_tree.png);
+    background-image: url(pine_tree.png);
+    min-width: 1280px;
+   font-family:Comic Sans MS, Comic Sans, cursive;
 
 }
 
@@ -22,9 +24,9 @@ a:hover{ /*свечение при наведении на ссылку*/
  text-shadow: 0 0 5px #002064;
 }
 
-body{
-    font-family:Comic Sans MS, Comic Sans, cursive;
-}
+
+
+
 
 
 
