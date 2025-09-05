@@ -1,0 +1,72 @@
+.a {
+  text-decoration: none;
+}
+
+.center {
+  padding-left: calc(50% - 570px);
+  padding-right: calc(50% - 570px);
+}
+
+.top-head__heading {
+  position: absolute;
+  width: 2592.27px;
+  height: 105px;
+  left: 16.14px;
+  top: 109.59px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85.9316px;
+  line-height: 105px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #bda8ff;
+}
+
+.header {
+  background-color: #8975C7;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.breadcrumbs__link {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.breadcrumbs__link__site {
+  font-weight: 700;
+  color: #bda8ff;
+}
+
+.product {
+  width: 826.57px;
+}
+.product .product__content {
+  width: 636.61px;
+  background-color: #898989;
+}
+
+.breadcrumbs {
+  position: absolute;
+  width: 2592.27px;
+  height: 105px;
+  left: 16.14px;
+  top: 109.59px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85.9316px;
+  line-height: 105px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #bda8ff;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+}/*# sourceMappingURL=style.css.map */
