@@ -1,0 +1,47 @@
+.a {
+    text-decoration: none;
+}
+.url{
+color: cornflowerblue;
+font: 16px;
+line-height: 20px;
+}
+.zagol{
+    color: blueviolet;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.zagol2{
+color: coral;
+font-size: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 80px;
+}
+.zayavka{
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px
+}
+.knopki{
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.stil{
+    font-family: sans-serif;
+}
+.parag{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+color: #7D7987;
+}
